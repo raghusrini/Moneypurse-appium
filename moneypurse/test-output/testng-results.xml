@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-04T12:02:55 IST" name="Default suite" finished-at="2022-03-04T12:08:35 IST" duration-ms="339964">
+    <groups>
+    </groups>
+    <test started-at="2022-03-04T12:02:55 IST" name="Default test" finished-at="2022-03-04T12:08:35 IST" duration-ms="339964">
+      <class name="moneypurse.ShgReportsTest">
+        <test-method signature="memberReports()[pri:0, instance:moneypurse.ShgReportsTest@15aab8c6]" started-at="2022-03-04T12:02:55 IST" name="memberReports" finished-at="2022-03-04T12:06:27 IST" duration-ms="212148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- memberReports -->
+        <test-method signature="groupReports()[pri:1, instance:moneypurse.ShgReportsTest@15aab8c6]" started-at="2022-03-04T12:06:27 IST" name="groupReports" finished-at="2022-03-04T12:07:00 IST" duration-ms="32549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- groupReports -->
+        <test-method signature="bankBalance()[pri:2, instance:moneypurse.ShgReportsTest@15aab8c6]" started-at="2022-03-04T12:07:00 IST" name="bankBalance" finished-at="2022-03-04T12:07:13 IST" duration-ms="13353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankBalance -->
+        <test-method signature="bankTransactionSummary()[pri:3, instance:moneypurse.ShgReportsTest@15aab8c6]" started-at="2022-03-04T12:07:13 IST" name="bankTransactionSummary" finished-at="2022-03-04T12:07:26 IST" duration-ms="13435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankTransactionSummary -->
+        <test-method signature="financialStatement()[pri:4, instance:moneypurse.ShgReportsTest@15aab8c6]" started-at="2022-03-04T12:07:26 IST" name="financialStatement" finished-at="2022-03-04T12:08:35 IST" duration-ms="68378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- financialStatement -->
+      </class> <!-- moneypurse.ShgReportsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
